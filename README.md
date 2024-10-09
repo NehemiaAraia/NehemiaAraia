@@ -2,9 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <br/><a href="https://github.com/NehemiaAraia/Azure-Sentinel-SIEM-Honeypot-Lab/blob/main/README.md">Azure Sentinel SIEM Honeypot Lab</a>
-
-- [Azure Sentinel Honeypot Lab](https://github.com/NehemiaAraia/Azure-Sentinel-SIEM-Honeypot-Lab/blob/main/README.md)
+- [Azure Sentinel SIEM Honeypot Lab](https://github.com/NehemiaAraia/Azure-Sentinel-SIEM-Honeypot-Lab/blob/main/README.md)
 
 <h2> Connect with me:</h2>
 
