@@ -6,7 +6,7 @@
 
 - [Phishing Simulation Campaign](https://github.com/NehemiaAraia/Phishing-Simulation-Campaign/tree/main)
 
-- Vulnerability Management Lab
+- [Vulnerability Management Lab](https://github.com/NehemiaAraia/Vulnerability-Management-Lab/blob/main/README.md)
 
 <h2> Connect with me:</h2>
 
