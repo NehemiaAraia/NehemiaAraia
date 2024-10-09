@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nehemia! <br/><a <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Nehemia! <br/><a <a href="https://www.linkedin.com/in/nehemia-araia/">Cybersecurity Professional</a>
 
 <h2>Cybersecurity Projects:</h2>
 
