@@ -4,7 +4,7 @@
 
 - [Azure Sentinel SIEM Honeypot Lab](https://github.com/NehemiaAraia/Azure-Sentinel-SIEM-Honeypot-Lab/blob/main/README.md)
 
-- Phishing Simulation Campaign
+- [Phishing Simulation Campaign](https://github.com/NehemiaAraia/Phishing-Simulation-Campaign/tree/main)
 
 - Vulnerability Management Lab
 
