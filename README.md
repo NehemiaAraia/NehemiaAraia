@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>SIEM Architecture for Home Network Detection and Prevention</b>
+- <b>Azure Sentinel SIEM Honeypot Lab</b>
   - 
 
 <h2> Connect with me:</h2>
