@@ -4,6 +4,8 @@
 
 - [Azure Sentinel SIEM Honeypot Lab](https://github.com/NehemiaAraia/Azure-Sentinel-SIEM-Honeypot-Lab/blob/main/README.md)
 
+- [Automated Onboarding Joiner Process](https://github.com/NehemiaAraia/Automated-Onboarding-Joiner-Process/blob/main/README.md)
+
 - [Phishing Simulation Campaign](https://github.com/NehemiaAraia/Phishing-Simulation-Campaign/tree/main)
 
 - [Vulnerability Management Lab](https://github.com/NehemiaAraia/Vulnerability-Management-Lab/blob/main/README.md)
