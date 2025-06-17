@@ -4,9 +4,9 @@
 
 - [CI/CD Pipeline with Embedded DevSecOps Security Controls](https://github.com/NehemiaAraia/DevSecOps-CI-CD-Pipeline-with-Vulnerability-Scanning-Hardening)
 
-- [Azure Sentinel SIEM Honeypot Lab](https://github.com/NehemiaAraia/Azure-Sentinel-SIEM-Honeypot-Lab)
-
 - [Automated Onboarding Joiner Process](https://github.com/NehemiaAraia/Automated-Onboarding-Joiner-Process)
+
+- [Azure Sentinel SIEM Honeypot Lab](https://github.com/NehemiaAraia/Azure-Sentinel-SIEM-Honeypot-Lab)
 
 - [Phishing Simulation Campaign](https://github.com/NehemiaAraia/Phishing-Simulation-Campaign)
 
