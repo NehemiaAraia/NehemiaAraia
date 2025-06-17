@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [DevSecOps CI/CD Pipeline with Vulnerability Scanning & Hardening](https://github.com/NehemiaAraia/DevSecOps-CI-CD-Pipeline-with-Vulnerability-Scanning-Hardening)
+- [CI/CD Pipeline with Embedded DevSecOps Security Controls](https://github.com/NehemiaAraia/DevSecOps-CI-CD-Pipeline-with-Vulnerability-Scanning-Hardening)
 
 - [Azure Sentinel SIEM Honeypot Lab](https://github.com/NehemiaAraia/Azure-Sentinel-SIEM-Honeypot-Lab)
 
