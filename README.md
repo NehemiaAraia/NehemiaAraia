@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [CI/CD Pipeline with Embedded DevSecOps Security Controls](https://github.com/NehemiaAraia/DevSecOps-CI-CD-Pipeline-with-Vulnerability-Scanning-Hardening)
+- [CI/CD Pipeline with Embedded DevSecOps Security Controls](https://github.com/NehemiaAraia/Secure-DevSecOps-Pipeline)
 
 - [Automated Onboarding Joiner Process](https://github.com/NehemiaAraia/Automated-Onboarding-Joiner-Process)
 
