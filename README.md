@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nehemia! <br/><a <a href="https://www.linkedin.com/in/nehemia-araia/">Cybersecurity Professional</a>
 
-<h2>Cybersecurity Projects:</h2>
+<h2>Projects:</h2>
 
 - [CI/CD Pipeline with Embedded DevSecOps Security Controls](https://github.com/NehemiaAraia/Secure-DevSecOps-Pipeline)
 
