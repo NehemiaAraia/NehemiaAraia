@@ -4,6 +4,8 @@
 
 - [CI/CD Pipeline with Embedded DevSecOps Security Controls](https://github.com/NehemiaAraia/Secure-DevSecOps-Pipeline)
 
+- [AI Powered Meeting Summarizer](https://github.com/NehemiaAraia/AI-Powered-Meeting-Summarizer)
+
 - [Automated Onboarding Joiner Process](https://github.com/NehemiaAraia/Automated-Onboarding-Joiner-Process)
 
 - [Azure Sentinel SIEM Honeypot Lab](https://github.com/NehemiaAraia/Azure-Sentinel-SIEM-Honeypot-Lab)
