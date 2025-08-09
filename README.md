@@ -2,6 +2,7 @@
 
 <h2>Projects:</h2>
 
+- [Highly Available & Scalable Containerized Application Deployment](https://github.com/NehemiaAraia/Highly-Available-Scalable-Containerized-Application-Deployment)
 - [CI/CD Pipeline with Embedded DevSecOps Security Controls](https://github.com/NehemiaAraia/Secure-DevSecOps-Pipeline)
 
 - [AI Powered Meeting Summarizer](https://github.com/NehemiaAraia/AI-Powered-Meeting-Summarizer)
