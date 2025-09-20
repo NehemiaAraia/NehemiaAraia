@@ -2,7 +2,12 @@
 
 <h2>Projects:</h2>
 
+- [Security AI Agent for Vulnerability Assessment](https://github.com/NehemiaAraia/Security-AI-Agent-for-Vulnerability-Assessment)
+
+- [Deepfake Detection with Python](https://github.com/NehemiaAraia/Deepfake-Detection-with-Python)
+  
 - [Highly Available & Scalable Containerized Application Deployment](https://github.com/NehemiaAraia/Highly-Available-Scalable-Containerized-Application-Deployment)
+  
 - [CI/CD Pipeline with Embedded DevSecOps Security Controls](https://github.com/NehemiaAraia/Secure-DevSecOps-Pipeline)
 
 - [AI Powered Meeting Summarizer](https://github.com/NehemiaAraia/AI-Powered-Meeting-Summarizer)
