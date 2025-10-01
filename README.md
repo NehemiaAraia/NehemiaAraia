@@ -1,8 +1,10 @@
 <h1>Hi, I'm Nehemia! <br/><a <a href="https://www.linkedin.com/in/nehemia-araia/">Aspiring Cloud Professional</a>
 
-<h2>Projects:</h2>
+<h2>Featured Projects:</h2>
 
 - [Security AI Agent for Vulnerability Assessment](https://github.com/NehemiaAraia/Security-AI-Agent-for-Vulnerability-Assessment)
+
+- [Netflix Clone Deployment on Kubernetes with DevSecOps Integration](https://github.com/NehemiaAraia/Netflix-Clone-Deployment-on-Kubernetes-with-DevSecOps-Integration)
 
 - [Deepfake Detection with Python](https://github.com/NehemiaAraia/Deepfake-Detection-with-Python)
   
@@ -12,11 +14,7 @@
 
 - [AI Powered Meeting Summarizer](https://github.com/NehemiaAraia/AI-Powered-Meeting-Summarizer)
 
-- [Automated Onboarding Joiner Process](https://github.com/NehemiaAraia/Automated-Onboarding-Joiner-Process)
 
-- [Azure Sentinel SIEM Honeypot Lab](https://github.com/NehemiaAraia/Azure-Sentinel-SIEM-Honeypot-Lab)
-
-- [Phishing Simulation Campaign](https://github.com/NehemiaAraia/Phishing-Simulation-Campaign)
 
 
 <h2> Connect with me:</h2>
