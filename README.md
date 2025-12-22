@@ -4,8 +4,6 @@
 
 - [Security AI Agent for Vulnerability Assessment](https://github.com/NehemiaAraia/Security-AI-Agent-for-Vulnerability-Assessment)
 
-- [Interactive ML Chat Assistant](https://github.com/NehemiaAraia/Interactive-ML-Chat-Assistant)
-
 - [Netflix Clone Deployment on Kubernetes with DevSecOps Integration](https://github.com/NehemiaAraia/Netflix-Clone-Deployment-on-Kubernetes-with-DevSecOps-Integration)
 
 - [AI-Driven Cloud Threat Analysis and Compliance Mapping](https://github.com/NehemiaAraia/AI-Driven-Cloud-Threat-Analysis-and-Compliance-Mapping)
@@ -13,6 +11,8 @@
 - [Deepfake Detection with Python](https://github.com/NehemiaAraia/Deepfake-Detection-with-Python)
   
 - [Highly Available & Scalable Containerized Application Deployment](https://github.com/NehemiaAraia/Highly-Available-Scalable-Containerized-Application-Deployment)
+
+- [SOC Knowledge Assistant](https://github.com/NehemiaAraia/SOC-Knowledge-Assistant)
   
 - [CI/CD Pipeline with Embedded DevSecOps Security Controls](https://github.com/NehemiaAraia/Secure-DevSecOps-Pipeline)
 
