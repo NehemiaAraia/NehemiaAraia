@@ -12,7 +12,7 @@
   
 - [Highly Available & Scalable Containerized Application Deployment](https://github.com/NehemiaAraia/Highly-Available-Scalable-Containerized-Application-Deployment)
 
-- [SOC Knowledge Assistant](https://github.com/NehemiaAraia/SOC-Knowledge-Assistant)
+- [RAG-Based SOC Assistant](https://github.com/NehemiaAraia/RAG-Based-SOC-Assistant)
   
 - [CI/CD Pipeline with Embedded DevSecOps Security Controls](https://github.com/NehemiaAraia/Secure-DevSecOps-Pipeline)
 
