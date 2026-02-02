@@ -2,21 +2,22 @@
 
 <h2>Featured Projects:</h2>
 
-- [Security AI Agent for Vulnerability Assessment](https://github.com/NehemiaAraia/Security-AI-Agent-for-Vulnerability-Assessment)
+- [SecureScan Agent](https://github.com/NehemiaAraia/SecureScan-Agent)
 
-- [Secure Netflix Clone on kubernetes](https://github.com/NehemiaAraia/Secure-Netflix-Clone-on-kubernetes)
+- [RAG SOC Assistant](https://github.com/NehemiaAraia/RAG-SOC-Assistant)
 
-- [RAG-Based SOC Assistant](https://github.com/NehemiaAraia/RAG-Based-SOC-Assistant)
+- [Secure Netflix Deployment](https://github.com/NehemiaAraia/Secure-Netflix-Deployment)
 
-- [AI-Driven Cloud Threat Analysis and Compliance Mapping](https://github.com/NehemiaAraia/AI-Driven-Cloud-Threat-Analysis-and-Compliance-Mapping)
+- [ThreatMap AI](https://github.com/NehemiaAraia/ThreatMap-AI)
 
-- [Deepfake Detection with Python](https://github.com/NehemiaAraia/Deepfake-Detection-with-Python)
+- [Deepfake Detector](https://github.com/NehemiaAraia/Deepfake-Detector)
   
-- [Highly Available & Scalable Containerized Application Deployment](https://github.com/NehemiaAraia/Highly-Available-Scalable-Containerized-Application-Deployment)
-  
-- [CI/CD Pipeline with Embedded DevSecOps Security Controls](https://github.com/NehemiaAraia/Secure-DevSecOps-Pipeline)
+- [Scalable Pacman App](https://github.com/NehemiaAraia/Scalable-Pacman-App)
 
-- [AI Powered Meeting Summarizer](https://github.com/NehemiaAraia/AI-Powered-Meeting-Summarizer)
+- [AI Meeting Summarizer](https://github.com/NehemiaAraia/AI-Meeting-Summarizer)
+  
+- [Secure CI/CD Pipeline](https://github.com/NehemiaAraia/Secure-CI-CD-Pipeline)
+
 
 
 
