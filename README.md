@@ -2,6 +2,8 @@
 
 <h2>Featured Projects:</h2>
 
+- [Cloud Security Agent](https://github.com/NehemiaAraia/cloud-security-agent)
+
 - [SecureScan Agent](https://github.com/NehemiaAraia/SecureScan-Agent)
 
 - [RAG SOC Assistant](https://github.com/NehemiaAraia/RAG-SOC-Assistant)
@@ -9,15 +11,8 @@
 - [Secure Netflix Deployment](https://github.com/NehemiaAraia/Secure-Netflix-Deployment)
 
 - [ThreatMap AI](https://github.com/NehemiaAraia/ThreatMap-AI)
-
-- [Deepfake Detector](https://github.com/NehemiaAraia/Deepfake-Detector)
   
 - [Scalable Pacman App](https://github.com/NehemiaAraia/Scalable-Pacman-App)
-
-- [AI Meeting Summarizer](https://github.com/NehemiaAraia/AI-Meeting-Summarizer)
-  
-- [Secure CI/CD Pipeline](https://github.com/NehemiaAraia/Secure-CI-CD-Pipeline)
-
 
 
 
